@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.Search-form {
+	display: flex;
+	gap: 10px;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+}
+.back-search{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.Search-form input{
+	width: 400px;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 16px;
+	border: 2px solid rgb(225, 224, 224);
+}
+h2{
+	text-align: center;
+}
+
+.search-btn{
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+	font-size: 16px;
+	background-color: #007bff;
+	padding: 10px;
+}
+
+

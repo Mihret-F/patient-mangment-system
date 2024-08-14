@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.form-cntr{
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items: center;
+	gap: 20px;
+	
+}
+.test-form{
+	display: flex;
+	flex-direction: column;
+}

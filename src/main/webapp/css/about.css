@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.about-wrapper {
+	padding: 10px 30px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+.about-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.about-left {
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	width: 40%;
+	height: 450px;
+}
+
+.about-left img {
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	height: 100%;
+	width: 100%;
+}
+
+.about-right {
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+ul {
+	list-style-type: none;
+}
+li {
+	font-size: 20px;
+}
